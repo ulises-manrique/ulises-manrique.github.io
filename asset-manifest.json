@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ulises-manrique/ulises-manrique.github.io/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ulises-manrique/ulises-manrique.github.io/static/js/main.49b34fb8.chunk.js",
-    "main.js.map": "/ulises-manrique/ulises-manrique.github.io/static/js/main.49b34fb8.chunk.js.map",
-    "runtime-main.js": "/ulises-manrique/ulises-manrique.github.io/static/js/runtime-main.89249379.js",
-    "runtime-main.js.map": "/ulises-manrique/ulises-manrique.github.io/static/js/runtime-main.89249379.js.map",
-    "static/js/2.efbbebe3.chunk.js": "/ulises-manrique/ulises-manrique.github.io/static/js/2.efbbebe3.chunk.js",
-    "static/js/2.efbbebe3.chunk.js.map": "/ulises-manrique/ulises-manrique.github.io/static/js/2.efbbebe3.chunk.js.map",
-    "static/js/3.b1086e02.chunk.js": "/ulises-manrique/ulises-manrique.github.io/static/js/3.b1086e02.chunk.js",
-    "static/js/3.b1086e02.chunk.js.map": "/ulises-manrique/ulises-manrique.github.io/static/js/3.b1086e02.chunk.js.map",
-    "index.html": "/ulises-manrique/ulises-manrique.github.io/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/ulises-manrique/ulises-manrique.github.io/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.efbbebe3.chunk.js.LICENSE.txt": "/ulises-manrique/ulises-manrique.github.io/static/js/2.efbbebe3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ulises-manrique/ulises-manrique.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/ulises-manrique/ulises-manrique.github.io/home/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ulises-manrique/ulises-manrique.github.io/home/static/js/main.49b34fb8.chunk.js",
+    "main.js.map": "/ulises-manrique/ulises-manrique.github.io/home/static/js/main.49b34fb8.chunk.js.map",
+    "runtime-main.js": "/ulises-manrique/ulises-manrique.github.io/home/static/js/runtime-main.0d572839.js",
+    "runtime-main.js.map": "/ulises-manrique/ulises-manrique.github.io/home/static/js/runtime-main.0d572839.js.map",
+    "static/js/2.efbbebe3.chunk.js": "/ulises-manrique/ulises-manrique.github.io/home/static/js/2.efbbebe3.chunk.js",
+    "static/js/2.efbbebe3.chunk.js.map": "/ulises-manrique/ulises-manrique.github.io/home/static/js/2.efbbebe3.chunk.js.map",
+    "static/js/3.b1086e02.chunk.js": "/ulises-manrique/ulises-manrique.github.io/home/static/js/3.b1086e02.chunk.js",
+    "static/js/3.b1086e02.chunk.js.map": "/ulises-manrique/ulises-manrique.github.io/home/static/js/3.b1086e02.chunk.js.map",
+    "index.html": "/ulises-manrique/ulises-manrique.github.io/home/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ulises-manrique/ulises-manrique.github.io/home/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.efbbebe3.chunk.js.LICENSE.txt": "/ulises-manrique/ulises-manrique.github.io/home/static/js/2.efbbebe3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ulises-manrique/ulises-manrique.github.io/home/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89249379.js",
+    "static/js/runtime-main.0d572839.js",
     "static/js/2.efbbebe3.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.49b34fb8.chunk.js"
